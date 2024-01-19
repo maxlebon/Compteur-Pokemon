@@ -1,3 +1,6 @@
 # Compteur-Pokemon
 
-Require Tkinter 
+Require Tkinter, numpy, os
+
+Python version 11 minimum
+
