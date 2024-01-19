@@ -1,1 +1,3 @@
 # Compteur-Pokemon
+
+Require Tkinter 
